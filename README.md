@@ -1,6 +1,10 @@
 
 
-## Steps to setup custom reference genome for transcript annotation
+## Steps to setup custom reference genome for transcript annotation via Genpipes
+
+Genpipes is a repository holds several bioinformatics pipelines developed at McGill University and Génome Québec Innovation Centre (MUGQIC), as part of the GenAP project.
+
+https://bitbucket.org/mugqic/genpipes/src/ma
 
 Trinotate makes use of a number of different well referenced methods for functional annotation including homology search to known sequence data (BLAST+/SwissProt), protein domain identification (HMMER/PFAM), protein signal peptide and transmembrane domain prediction (signalP/tmHMM), and leveraging various annotation databases (eggNOG/GO/Kegg databases) <https://github.com/Trinotate/Trinotate.github.io/wiki>.
 
